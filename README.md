@@ -55,7 +55,7 @@
 
 ## 📫 Sosyal Medya ve Bağlantılar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/](https://www.linkedin.com/in/yunus-emre-oflaz-95222a291/?trk=opento_sprofile_topcard))
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 [![İnstagram]([https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com/](https://www.instagram.com/yns_emreoflz/))
 [![Website](https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com/)
