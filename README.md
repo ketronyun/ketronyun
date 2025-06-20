@@ -14,6 +14,15 @@
 - 🌱 C++, C#, Python, Java ve PHP dillerinde gelişmeye devam ediyorum
 - 📫 Bana ulaş: `yunusemreoflaz@hotmail.com` 
 
+I am a passionate backend developer focused on continuous learning, research, and self-improvement. I always aim to deliver the highest quality in my work.
+
+Throughout my studies, I received training in C#, PHP, Java, Unity, and Photoshop. I have developed various applications in these fields and gained practical experience through real-world projects.
+
+I have worked as a freelance developer, creating online games and websites. Additionally, I have developed a card-based hotel automation system and a restaurant order management (adisyon) application, combining software solutions with user-friendly designs.
+
+I also enjoy working on Arduino-integrated projects, where I combine software and hardware to build interactive and smart systems.
+
+Currently, I am focusing on backend development and always looking for opportunities to expand my knowledge, collaborate on exciting projects, and contribute to meaningful solutions.
 ---
 
 ## ⚒️ Kullandığım Teknolojiler
